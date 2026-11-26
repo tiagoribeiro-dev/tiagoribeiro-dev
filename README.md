@@ -4,27 +4,30 @@
 
 ```ts
 const tiago = {
-  role: "Software Engineer",
-  location: "Porto, Portugal 🇵🇹",
-  studying: "MSc Computer Engineering — Applied AI @ ISLA Gaia",
-  building: "Needer — a commission-free reverse marketplace",
-  focus: ["backend", "cloud", "AI"],
-  stack: ["TypeScript", "Next.js", "Node.js", "Python", "MongoDB", "PostgreSQL"],
-  shipping: true,
+  role:     "Software Engineer",
+  based:    "Porto, Portugal",
+  studying: "MSc Computer Engineering (AI)",
+  building: "Needer — reverse marketplace",
+  focus:    ["backend", "cloud", "AI"],
+  stack:    ["TypeScript", "Next.js",
+             "Python", "MongoDB",
+             "PostgreSQL"],
 };
 ```
 
 ```ts
-const projects = [
-  "▸ thepark-operations-platform  — scheduling, timesheets & check-in · used by 200+ staff",
-  "▸ Loop                         — finance & habit tracker · Supabase + Stripe",
-  "▸ Autoluzes                    — community road-safety app · AI photo analysis",
-  "▸ GetOut                       — group outings & events app · my BSc final project",
-];
+const projects = {
+  theParkOps: "used by 200+ staff",
+  loop:       "finance & habits",
+  autoluzes:  "road safety + AI",
+  getOut:     "BSc final project",
+};
 ```
 
-**▸** [thepark-operations-platform](https://github.com/tiagoribeiro-dev/thepark-operations-platform) · [Loop](https://github.com/tiagoribeiro-dev/Loop) · [Autoluzes](https://github.com/tiagoribeiro-dev/Autoluzes) · [GetOut](https://github.com/TheOGGuru/get-out-website)
+▸ [thepark-operations-platform](https://github.com/tiagoribeiro-dev/thepark-operations-platform) · [Loop](https://github.com/tiagoribeiro-dev/Loop) · [Autoluzes](https://github.com/tiagoribeiro-dev/Autoluzes) · [GetOut](https://github.com/TheOGGuru/get-out-website)
 
 ```ts
-tiago.contact(); // → linkedin.com/in/tiago-dos-santos-ribeiro-4b8572200 · tiago.dos.santos.ribeiro@gmail.com
+tiago.contact(); // LinkedIn & email ↓
 ```
+
+[LinkedIn](https://www.linkedin.com/in/tiago-dos-santos-ribeiro-4b8572200/) · [tiago.dos.santos.ribeiro@gmail.com](mailto:tiago.dos.santos.ribeiro@gmail.com)
