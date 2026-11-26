@@ -16,12 +16,12 @@ No commissions — professionals can choose an optional paid Pro badge instead. 
 
 ## 🏢 What I've built
 
-**[The Park Operations Platform](https://github.com/Kayo04/thepark-operations-platform)** — the internal platform that runs staff operations at The Park VR, used by **200+ staff members and admins** across The Park venues: automatic shift scheduling, time tracking with Excel import/export, bookings and QR-code customer check-in with marketing dashboards.
+**[The Park Operations Platform](https://github.com/tiagoribeiro-dev/thepark-operations-platform)** — the internal platform that runs staff operations at The Park VR, used by **200+ staff members and admins** across The Park venues: automatic shift scheduling, time tracking with Excel import/export, bookings and QR-code customer check-in with marketing dashboards.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Loop](https://github.com/Kayo04/Loop) | Finance & habit tracker with subscriptions and live market data | Next.js · Supabase · Stripe |
-| [Autoluzes](https://github.com/Kayo04/Autoluzes) | Community road-safety app with AI photo analysis | Next.js · MongoDB · Gemini |
+| [Loop](https://github.com/tiagoribeiro-dev/Loop) | Finance & habit tracker with subscriptions and live market data | Next.js · Supabase · Stripe |
+| [Autoluzes](https://github.com/tiagoribeiro-dev/Autoluzes) | Community road-safety app with AI photo analysis | Next.js · MongoDB · Gemini |
 | [GetOut](https://github.com/TheOGGuru/get-out-website) | App to organise group outings and events — my BSc final project | Next.js · Three.js |
 | MyBody *(private)* | Health dashboard with Fitbit, smart-scale and Telegram integrations | Next.js · Prisma · Python |
 
