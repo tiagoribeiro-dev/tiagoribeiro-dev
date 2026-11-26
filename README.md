@@ -2,23 +2,20 @@
   <img src="./banner.svg" alt="Tiago Ribeiro — Software Engineer · Backend & Cloud · Applied AI" width="100%">
 </p>
 
-<p align="center">
-  Software engineer from Porto · Backend & Cloud · AI · Currently building <b>Needer</b>
-</p>
+### Hi, I'm Tiago
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoribeiro-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages">
-</p>
+Software engineer from Porto, Portugal, currently doing an MSc in Computer Engineering (Applied AI).
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tiagoribeiro-dev&theme=tokyonight&hide_border=true" alt="Contribution streak">
-</p>
+**What I do**
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tiagoribeiro-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity">
-</p>
+- Build full-stack web applications end to end: database, APIs, authentication and deployment
+- Backend and cloud development
+- Applied AI: bringing LLMs and vision models into real products
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tiago-dos-santos-ribeiro-4b8572200/">LinkedIn</a> ·
-  <a href="mailto:tiago.dos.santos.ribeiro@gmail.com">tiago.dos.santos.ribeiro@gmail.com</a>
-</p>
+**Languages:** TypeScript, JavaScript, Python, SQL
+
+**Frameworks & tools:** Next.js, React, Node.js, Tailwind CSS, NextAuth, MongoDB, PostgreSQL, Prisma, Firebase, Git, Vercel, Linux
+
+**Languages I speak:** Portuguese (native), English (fluent)
+
+[LinkedIn](https://www.linkedin.com/in/tiago-dos-santos-ribeiro-4b8572200/) · [tiago.dos.santos.ribeiro@gmail.com](mailto:tiago.dos.santos.ribeiro@gmail.com)
